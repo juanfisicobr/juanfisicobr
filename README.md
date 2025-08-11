@@ -1,5 +1,5 @@
 # Olá! meu nome é Juan Carlos Terán😀 
- sou venezuelano, físico e doutor em Educação em Ciências pela FURG, atualmente sou professor visitante na área do ensino de física na FURG, com experiência em análises diretas sobre Inflação Cósmica Através do Modelo Computacional (Loop Inflation, One Parameter Models) principalmente em Fortran e Python como auxílio para a geração de gráficos, posso dizer que sou apaixonado nas análises de problemas complexos e modelar situações em diversas linguagens. 
+ sou venezuelano, físico e doutor em Educação em Ciências pela FURG, atualmente sou professor visitante na área do ensino de física, com experiência em análises diretas sobre Inflação Cósmica Através do Modelo Computacional (Loop Inflation, One Parameter Models) principalmente em Fortran e Python como auxílio para a geração de gráficos, posso dizer que sou apaixonado nas análises de problemas complexos e modelar situações em diversas linguagens. 
 
 ## Vamos nos conectar?
 
